@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\hp_off_pressed.png",
+        "source": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\hp_off_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\hp_off.png",
+        "source": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\hp_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\hp_on_pressed.png",
+        "source": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\hp_on_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\hp_on.png",
+        "source": "C:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\hp_on.png"
+    }
+]

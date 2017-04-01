@@ -1,0 +1,7 @@
+#Fri Mar 31 18:00:26 PDT 2017
+base.0=C\:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53fd1aa9755db37b26b183652b6bf5703453c905
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_12b49f9f0afb7df2e5584c2449628b75d59699e6\\classes.dex
+base.1=C\:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_12b49f9f0afb7df2e5584c2449628b75d59699e6
+file.0=C\:\\Users\\Kiran\\Desktop\\ACNFINAL\\Android-Wifi-Hotspot-Manager-Class-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53fd1aa9755db37b26b183652b6bf5703453c905\\classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiran\Desktop\ACNFINAL\Android-Wifi-Hotspot-Manager-Class-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Kiran\Desktop\ACNFINAL\Android-Wifi-Hotspot-Manager-Class-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53fd1aa9755db37b26b183652b6bf5703453c905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kiran\Desktop\ACNFINAL\Android-Wifi-Hotspot-Manager-Class-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="970646180eb0cde2dc0f579f2aa8a5b5fec52785">
+        <dex dex="C:\Users\Kiran\Desktop\ACNFINAL\Android-Wifi-Hotspot-Manager-Class-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12b49f9f0afb7df2e5584c2449628b75d59699e6\classes.dex" />
+    </item>
+
+</items>
